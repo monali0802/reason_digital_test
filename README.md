@@ -12,6 +12,8 @@ endpoints)
 
 Solution:
 
+create database in mysql with  database name : "reason_digital"
+
 Run following command in terminal: 
 
 npm install 
